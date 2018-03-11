@@ -1,0 +1,20 @@
+Hi All,
+SeviTech Systems is founded by four Texas Instrument leadership team having collective experience of 40 years in PD, STA, Verification, Design & Analog. We have more than 250+ engineers working for many tier 1 semiconductor companies. 
+
+We are expanding our team in India, Bangalore/Hyderabad for which we are looking for smart engineers with 1 to 5 years of exp in RF Layout. We are looking for candidates with below skills with relevant experience:
+
+RF Job Description:
+Skills: 
+1.) Good at High speed, RF Layout methodologies
+2.) Good at LVS and DRC debugging skills for lower technology nodes like 28nm CMOS, & 14nm FinFet
+3.) Good interpersonal skills and critical thinking abilities to resolve the issue technically, and professionally Familiar with EDA tools like Cadence Virtuoso Editor, Schematic editor, LVS/DRC, EM, ESD, Parasitic extraction tool 
+
+Minimum Qualifications:
+B.E and B.Tech in Electrical and Electronics engineering or Electronics and Communication engineering
+
+You can send resume to aman.ghani@sevitechsystems.com/reachaman79@gmail.com
+Come join the fastest growing chip design company !
+
+
+Best Regards
+Aman
