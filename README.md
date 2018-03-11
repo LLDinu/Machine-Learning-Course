@@ -13,9 +13,9 @@ MATLAB assignments for Andrew NG's Machine Learning course on Coursera:
 
 Toolboxes used:
 
-1.     Control System
-2.     Curve Fitting
-3.     Image Processing
-4.     Signal Processing
-5.     Statistics and Machine Learning
-6.     Symbolic Math
+1. Control System
+2. Curve Fitting
+3. Image Processing
+4. Signal Processing
+5. Statistics and Machine Learning
+6. Symbolic Math
